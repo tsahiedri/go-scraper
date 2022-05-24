@@ -7,7 +7,7 @@ The data source for the web-scraper is [j2store](http://j2store.net/demo/index.p
 This web scraper extracts the following data:
 * Products names
 * Prices
-* Image-Url <br />
+* Images Url <br />
 
 and outputs the data to a json file (named products.json) in the following format: <br />
 <pre>{ <br />
