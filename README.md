@@ -9,7 +9,7 @@ This web scraper extracts the following data:
 * Prices
 * Image-Url <br />
 
-and outputs the data to a json file in the following format: <br />
+and outputs the data to a json file (named products.json) in the following format: <br />
 <pre>{ <br />
 "name": "X", <br />
 "price": "$XX.XX", <br />
